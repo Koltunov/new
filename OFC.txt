@@ -2,3 +2,4 @@ print ("hello world")
 print ("second")
 print ("ss")
 print ("dorabotka")
+print("@");
